@@ -7,7 +7,7 @@ The steps are -
 First import neccesary library for the project then import haarcascade file and dataset used in the project. When thses things are uploaded then start start a loop in which you resize the frame of the dataset and mark on the cars and pedistrian. After that give a condition where the result get paused then simlpy release the data and destroy the window.
 
 
-#Code
+# Code
 I have uploaded 2 files hereby one for pedistrian and second for cars. Both file contains dataset , result , haarcascade file and the final codes.
 You can download the files and enjoy the project.
 

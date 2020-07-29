@@ -1,1 +1,6 @@
-
+This text file explain about this folder.
+Here you get 4 file-
+1. result_pedistrian.mp4  -->  which is the final result of the project.
+2. walking_people.mp4  -->   which is the dataset used in the project.
+3. haarcascade_fullbody.xml   -->   which is the haarcascade xml file used in the project to detect peoples.
+4. pedistraian_detection.ipynb   -->  code file where you get the code of this project.
